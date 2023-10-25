@@ -1,1 +1,1 @@
-# ResponsiveWordCounter
+# word-counter-app
